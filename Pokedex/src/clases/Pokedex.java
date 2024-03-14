@@ -21,6 +21,7 @@ public class Pokedex {
     
     public Pokedex(){
     }
+    
 
     public Pokemon buscarPokemon(String pokeABuscar) throws IOException, InterruptedException{
             System.out.println("Conectando a la API...");
